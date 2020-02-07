@@ -26097,7 +26097,6 @@ class Mpdf implements \Psr\Log\LoggerAwareInterface
 
 
 		// Bottom NUMERALS
-		return;
 		// mPDF 5.7.4
 		if ($this->onlyCoreFonts) {
 			$this->SetFont('ccourier');

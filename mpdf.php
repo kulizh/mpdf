@@ -29613,6 +29613,7 @@ class mPDF
 
 
 		// Bottom NUMERALS
+		return;
 		// mPDF 5.7.4
 		if ($this->onlyCoreFonts) {
 			$this->SetFont('ccourier');

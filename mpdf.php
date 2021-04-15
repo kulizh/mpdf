@@ -1636,8 +1636,7 @@ class mPDF
 					break;
 				} //	'Royal' format paperback size 153x234mm
 			case 'CUSTOM_1080_3653': {
-				$format = array(1080, 3653);
-				break;
+				$format = array(320, 1082);
 			}
 			default: {
 					$format = array(595.28, 841.89);
